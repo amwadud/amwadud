@@ -4,6 +4,10 @@
   </samp>
 </p>
 
+<blockquote align="center">
+  <em>"The more you know, the less you need."</em>
+</blockquote>
+
 <p align="center">
   <samp>
     <a href="https://x.com/thexpolymath">Twitter/X</a> &nbsp;•&nbsp;
