@@ -5,7 +5,7 @@
 </p>
 
 <blockquote align="center">
-  <em>"The more you know, the less you need."</em>
+  <em>"Tell me, what is it you plan to do with your one wild and precious life?" — Mary Oliver</em>
 </blockquote>
 
 <p align="center">
