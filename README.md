@@ -12,9 +12,9 @@
 
 <p align="center">
   <samp>
-    <a href="https://x.com/thexpolymath">x.com</a> &nbsp;•&nbsp;
-    <a href="https://linkedin.com/in/aehabdelouadoud">linkedin</a> &nbsp;•&nbsp;
-    <a href="https://youtube.com/@TheXPolymath">youtube</a> &nbsp;•&nbsp;
-    <a href="mailto:mailme.dealt368@passinbox.com">email</a>
+    <a href="https://x.com/thexpolymath">Twitter/X</a> &nbsp;•&nbsp;
+    <a href="https://linkedin.com/in/aehabdelouadoud">LinkedIn</a> &nbsp;•&nbsp;
+    <a href="https://youtube.com/@TheXPolymath">YouTube</a> &nbsp;•&nbsp;
+    <a href="mailto:mailme.dealt368@passinbox.com">Email</a>
   </samp>
 </p>
