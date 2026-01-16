@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    <strong>こんにちは世界</strong>
+    <strong>こんにちは世界 | Chi va piano, va sano e va lontano. | Chi cerca trova.</strong>
   </samp>
 </p>
 
