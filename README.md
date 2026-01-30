@@ -43,8 +43,6 @@
 [![Twitter](https://img.shields.io/badge/X-ffffff?style=flat&logo=x&logoColor=black)](https://x.com/amwadud)
 [![Discord](https://img.shields.io/badge/Discord-ffffff?style=flat&logo=discord&logoColor=black)](https://discord.com/users/1133976190709940345)
 
----
-
 ### whoami
 
 42 student
