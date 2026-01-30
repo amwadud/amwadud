@@ -37,9 +37,7 @@
 
 <div align="center">
 
-# こんにちは世界
-
-**UM6P/42 student**
+# **UM6P/42 student**
 
 <br>
 
