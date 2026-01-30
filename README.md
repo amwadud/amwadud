@@ -1,7 +1,7 @@
 <div align="center">
 
 **UM6P/42 student** <br>
-_AI • Business_
+_AI • Economics_
 
 <a href="https://linkedin.com/in/amwadud"><img src="https://img.shields.io/badge/-LinkedIn-white?style=flat&logo=linkedin&logoColor=black" /></a>
 <a href="https://x.com/amwadud"><img src="https://img.shields.io/badge/-X-white?style=flat&logo=x&logoColor=black" /></a>
