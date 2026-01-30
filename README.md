@@ -11,6 +11,7 @@ _AI • Economics_
 </a> 
 </div>
 
+<!--
 <div align="center">
 
 **UM6P/42 student** <br>
@@ -23,3 +24,4 @@ _AI • Economics_
   <img src="https://img.shields.io/badge/YouTube-white?style=flat&logo=youtube&logoColor=yellow" />
 </a> 
 </div>
+-->
