@@ -37,7 +37,7 @@
 
 <div align="center">
 
-**UM6P/42 student**
+**UM6P/42 student** <br>
 _AI • Business_
 
 <a href="https://linkedin.com/in/amwadud"><img src="https://img.shields.io/badge/-LinkedIn-white?style=flat&logo=linkedin&logoColor=black" /></a>
