@@ -7,6 +7,6 @@ _AI • Economics_
 <a href="https://x.com/amwadud"><img src="https://img.shields.io/badge/-X-white?style=flat&logo=x&logoColor=black" /></a>
 <a href="https://discord.com/users/1133976190709940345"><img src="https://img.shields.io/badge/-Discord-white?style=flat&logo=discord&logoColor=black" /></a>
 <a href="https://www.youtube.com/channel/UCFsvMcFLXcJWVAWui1LAPUg">
-  <img src="https://img.shields.io/badge/YouTube-white?style=flat&logo=youtube&logoColor=red" />
+  <img src="https://img.shields.io/badge/YouTube-white?style=flat&logo=youtube&logoColor=black" />
 </a> 
 </div>
