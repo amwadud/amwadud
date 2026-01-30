@@ -38,7 +38,7 @@
 <div align="center">
 
 # こんにちは世界
-### whoami
+### Who am I?
 UM6P/42 student
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=flat&logo=linkedin&logoColor=black)](https://linkedin.com/in/amwadud)
