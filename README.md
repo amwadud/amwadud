@@ -38,8 +38,8 @@
 <div align="center">
 
 # こんにちは世界
-### Who am I?
-UM6P/42 student
+
+**UM6P/42 student**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=flat&logo=linkedin&logoColor=black)](https://linkedin.com/in/amwadud)
 [![Twitter](https://img.shields.io/badge/X-ffffff?style=flat&logo=x&logoColor=black)](https://x.com/amwadud)
