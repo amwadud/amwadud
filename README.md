@@ -1,3 +1,4 @@
+<!--
 <div align="center">
 
 **UM6P/42 student** <br>
@@ -10,6 +11,7 @@ _AI • Economics_
   <img src="https://img.shields.io/badge/YouTube-white?style=flat&logo=youtube&logoColor=black" />
 </a> 
 </div>
+-->
 
 <!--
 <div align="center">
@@ -25,3 +27,28 @@ _AI • Economics_
 </a> 
 </div>
 -->
+
+
+Readme · MD
+Copy
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=120&section=header&text=amwadud&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=65&animation=fadeIn" />
+
+### building at the intersection of intelligence & markets
+
+`AI` · `Economics` · `UM6P / 42`
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amwadud)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/amwadud)
+[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1133976190709940345)
+[![YouTube](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCFsvMcFLXcJWVAWui1LAPUg)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=80&section=footer" />
+
+</div>
