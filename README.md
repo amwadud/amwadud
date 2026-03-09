@@ -1,4 +1,3 @@
-<!--
 Readme · MD
 Copy
 
@@ -18,31 +17,6 @@ Copy
 
 <sup>— simple by default</sup>
 
-<br>
-
-</div>
--->
-
-<div align="center">
-
-<br>
-<br>
-
-<img width="300" src="https://readme-typing-svg.demolab.com?font=Crimson+Pro&size=22&duration=3000&pause=2000&color=888888&center=true&vCenter=true&width=400&lines=CS+%26+Economics+%C2%B7+UM6P+%2F+42" />
-
-<br>
-
-<a href="https://linkedin.com/in/amwadud"><img src="https://img.shields.io/badge/in-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a> &nbsp;
-<a href="https://x.com/amwadud"><img src="https://img.shields.io/badge/𝕏-000000?style=flat-square&logo=x&logoColor=white" /></a> &nbsp;
-<a href="https://discord.com/users/1133976190709940345"><img src="https://img.shields.io/badge/dc-5865F2?style=flat-square&logo=discord&logoColor=white" /></a> &nbsp;
-<a href="https://www.youtube.com/channel/UCFsvMcFLXcJWVAWui1LAPUg"><img src="https://img.shields.io/badge/yt-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
-
-<br>
-<br>
-
-*simple by default*
-
-<br>
 <br>
 
 </div>
