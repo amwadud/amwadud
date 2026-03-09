@@ -77,7 +77,7 @@ Copy
 
 <br>
 
-*CS & Economics &nbsp;·&nbsp; UM6P / 42*
+<sup>CS & ECONOMICS &nbsp;·&nbsp; UM6P / 42</sup>
 
 <br>
 
@@ -85,9 +85,9 @@ Copy
 
 <br>
 
-***Student at 42. Exploring where CS meets economics.***
+*Exploring where CS meets economics.*
 
-<sub>*Simple by default.*</sub>
+<sup>— simple by default</sup>
 
 <br>
 
