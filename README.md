@@ -28,7 +28,7 @@ Copy
 <br>
 <br>
 
-<img width="100" src="https://readme-typing-svg.demolab.com?font=Crimson+Pro&size=13&duration=3000&pause=2000&color=888888&center=true&vCenter=true&width=300&lines=CS+%26+Economics+%C2%B7+UM6P+%2F+42" />
+<img width="300" src="https://readme-typing-svg.demolab.com?font=Crimson+Pro&size=22&duration=3000&pause=2000&color=888888&center=true&vCenter=true&width=400&lines=CS+%26+Economics+%C2%B7+UM6P+%2F+42" />
 
 <br>
 
@@ -40,7 +40,7 @@ Copy
 <br>
 <br>
 
-<sub>simple by default</sub>
+*simple by default*
 
 <br>
 <br>
