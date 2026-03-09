@@ -28,7 +28,7 @@ _AI • Economics_
 </div>
 -->
 
-
+<!--
 Readme · MD
 Copy
 
@@ -50,5 +50,38 @@ Copy
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=80&section=footer" />
+
+</div>
+-->
+
+<div align="center">
+
+<br>
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+<br>
+
+# AMWADUD
+
+*AI · Economics — UM6P / 42*
+
+<br>
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amwadud) &nbsp;
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/amwadud) &nbsp;
+[![Discord](https://img.shields.io/badge/DISCORD-000000?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1133976190709940345) &nbsp;
+[![YouTube](https://img.shields.io/badge/YOUTUBE-000000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCFsvMcFLXcJWVAWui1LAPUg)
+
+<br>
+<br>
 
 </div>
