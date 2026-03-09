@@ -85,6 +85,10 @@ Copy
 
 <br>
 
-</div>
+---
+
+*Student at 42. Exploring where AI meets economics.*
+
+<br>
 
 </div>
