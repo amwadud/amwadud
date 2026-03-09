@@ -77,7 +77,7 @@ Copy
 
 <br>
 
-*AI & Economics &nbsp;·&nbsp; UM6P / 42*
+*CS & Economics &nbsp;·&nbsp; UM6P / 42*
 
 <br>
 
@@ -85,7 +85,7 @@ Copy
 
 <br>
 
-*Student at 42. Exploring where AI meets economics.*
+*Student at 42. Exploring where CS meets economics.*
 
 <br>
 
