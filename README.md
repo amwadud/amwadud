@@ -54,6 +54,7 @@ Copy
 </div>
 -->
 
+<!--
 <div align="center">
 
 <br>
@@ -63,6 +64,21 @@ Copy
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/amwadud) &nbsp;[![X](https://img.shields.io/badge/X-black?style=flat-square&logo=x)](https://x.com/amwadud) &nbsp;[![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)](https://discord.com/users/1133976190709940345) &nbsp;[![YouTube](https://img.shields.io/badge/YouTube-black?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCFsvMcFLXcJWVAWui1LAPUg)
+
+<br>
+
+</div>
+-->
+
+<div align="center">
+
+<br>
+
+*AI & Economics &nbsp;·&nbsp; UM6P / 42*
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amwadud) &nbsp;[![X](https://img.shields.io/badge/X-black?style=flat-square&logo=x&logoColor=white)](https://x.com/amwadud) &nbsp;[![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1133976190709940345) &nbsp;[![YouTube](https://img.shields.io/badge/YouTube-black?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCFsvMcFLXcJWVAWui1LAPUg)
 
 <br>
 
