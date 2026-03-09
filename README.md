@@ -85,7 +85,9 @@ Copy
 
 <br>
 
-*Student at 42. Exploring where CS meets economics.*
+***Student at 42. Exploring where CS meets economics.***
+
+<sub>*Simple by default.*</sub>
 
 <br>
 
