@@ -85,8 +85,6 @@ Copy
 
 <br>
 
----
-
 *Student at 42. Exploring where AI meets economics.*
 
 <br>
