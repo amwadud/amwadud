@@ -16,6 +16,7 @@ Copy
 *Exploring where CS meets economics.*
 
 <sup>— simple by default</sup>
+<sup>— Learning anything.</sup>
 
 <br>
 
