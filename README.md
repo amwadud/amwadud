@@ -30,7 +30,7 @@ Copy
 
 <br>
 
-**harun** &nbsp;·&nbsp; <sup>UM6P / 42</sup>
+**𝗛𝗔𝗥𝗨𝗡** &nbsp;·&nbsp; <sup>UM6P / 42</sup>
 
 <br>
 
