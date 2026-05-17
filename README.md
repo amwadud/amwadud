@@ -5,7 +5,7 @@ Copy
 
 <br>
 
-<sup>CS & ECONOMICS &nbsp;·&nbsp; UM6P / 42</sup>
+<sup>CS & Everything &nbsp;·&nbsp; UM6P / 42</sup>
 
 <br>
 
@@ -13,7 +13,7 @@ Copy
 
 <br>
 
-*Exploring where CS meets economics.*
+*Exploring where CS meets everything.*
 
 <sup>— simple by default</sup> <br>
 <sup>— Learning anything.</sup>
